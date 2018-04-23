@@ -2,10 +2,10 @@
 ## MVP
 Create Form for Sending messages
 Create view area for messages
-Basic Profiles
 Login to Account
 Register User
 Create Channels
+Basic Profiles
 
 ## Nice To Have
 Direct Messaging
